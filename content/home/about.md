@@ -21,17 +21,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Chognqing University"
-  year = 2014-2017
+  year = 2017
 
 [[education.courses]]
   course = "Master in Applied Mathematics"
   institution = "Chongqing University"
-  year = 2012-2013
+  year = 2013
 
 [[education.courses]]
   course = "BSc in Mathematics"
   institution = "Henan Normal University"
-  year = 2008-2012
+  year = 2012
  
 +++
 
