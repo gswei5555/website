@@ -22,7 +22,7 @@ publication = "IEEE Transactions on Information Forensics and Security"
 #publication_short = "#"
 
 # Abstract and optional shortened version.
-abstract = "With the development in recent decades of various efficient image encryption algorithms, such as selective encryption, a great demand has arisen for methods of evaluating the visual security of encrypted images. Existing solutions usually adopt well-known metrics of visual quality assessment to measure the quality of encrypted images, but they often exhibit undesired behavior on perceptually encrypted images of low quality. In this paper, we propose a novel visual security index (VSI) based on the human visual system. The proposed VSI evaluates two aspects of the content similarity between plain and encrypted images: the edge similarity extracted via multi-threshold edge detection and the texture similarity measured by means of the co-occurrence matrix. These two components are further integrated to obtain the proposed VSI through adaptive similarity weighting. Extensive experiments were performed on two publicly available image databases. Our experimental results demonstrate that compared with many existing state-of-the-art visual security metrics, the proposed VSI exhibits a better performance and stability on low-quality images"
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
