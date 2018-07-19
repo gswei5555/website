@@ -1,6 +1,6 @@
 +++
 title = "Privacy-aware image encryption based on logistic map and data hidin"
-date = "2016-04-03"
+date = "2017-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [	"Jianglin Sun", "Xiaofeng Liao", "Xin Chen", "Shangwei Guo"]
