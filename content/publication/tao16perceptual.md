@@ -1,4 +1,8 @@
 +++
+# Recent Publications widget.
+# This widget displays recent publications from `content/publication/`.
+widget = "publications"
+active = true
 title = "Perceptual visual security index based on edge and texture similarities"
 date = "2016-04-03"
 
