@@ -1,6 +1,6 @@
 +++
 title = "Image quality assessment based on multiscale fuzzy gradient similarity deviation"
-date = "2016-04-03"
+date = "2017-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [ "Shangwei Guo","Tao Xiang", "Xiaoguo Li"]
