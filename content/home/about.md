@@ -16,9 +16,6 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Postdoctroal Research Fellow"
-  institution = "HongKong Baptist University"
-[[education.courses]]
   course = "PhD in Computer Science"
   institution = "Chognqing University"
   year = 2017
@@ -37,4 +34,4 @@ weight = 5
 
 # Biography
 
-Shangwei is a postdoc at the HKBU Database Lab. His research interests include database security and information retrieval.
+Shangwei is a postdoctroal research fellow at the Database Lab, HongKong Baptist University. His supervisor is [Prof. Jianliang XU](http://www.comp.hkbu.edu.hk/~xujl/). His research interests include database security and information retrieval.
