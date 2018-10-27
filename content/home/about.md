@@ -34,4 +34,4 @@ weight = 5
 
 # Biography
 
-GUO Shangwei is a postdoctoral research fellow at the Database Lab, HongKong Baptist University. His supervisor is [Prof. Jianliang XU](http://www.comp.hkbu.edu.hk/~xujl/). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by [Prof. Tao XIANG](http://www.cs.cqu.edu.cn/info/1140/1746.htm)). His research interests include database security and information retrieval.
+GUO Shangwei is a postdoctoral research fellow at the Database Lab, HongKong Baptist University. His supervisor is [Prof. Jianliang XU](http://www.comp.hkbu.edu.hk/~xujl/). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by [Prof. Tao XIANG](http://www.cs.cqu.edu.cn/info/1140/1746.htm)). His research interests include database security, information retrieval and blockchain.
