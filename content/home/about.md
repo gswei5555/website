@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Database Security",
-    "Image Retrieval",
-    "Blockchain"
+    "Blockchain",
+    "Image Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
