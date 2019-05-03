@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "GUO Shangwei"
+title = "GUO, Shangwei"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -226,17 +226,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "csswguo@comp.hkbu.edu.hk"
+    link = "shangwei.guo@ntu.edu.sg"
 
   #[[params.social]]
    # icon = "twitter"
     #icon_pack = "fa"
     #link = "//twitter.com/GeorgeCushen"
 
-#  [[params.social]]
- #   icon = "google-scholar"
-  #  icon_pack = "ai"
-   # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  [[params.social]]
+   icon = "google-scholar"
+   icon_pack = "ai"
+   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"

@@ -18,7 +18,7 @@ authors = [ "Shangwei Guo", "Jianliang Xu", "Ce Zhang", "Cheng Xu", "Tao Xiang"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ICDE2019"
+publication = "ICDE"
 #publication_short = "#"
 
 # Abstract and optional shortened version.
