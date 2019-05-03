@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Database Security",
-    "Blockchain",
-    "Image Retrieval"
+    "Secure Machine Learning",
+    "VerifiableQueryProcessing",
+    "CloudSecurityandDataPrivacy"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-GUO Shangwei is a postdoctoral research fellow at the Database Lab, HongKong Baptist University. His supervisor is [Prof. Jianliang XU](http://www.comp.hkbu.edu.hk/~xujl/). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by [Prof. Tao XIANG](http://www.cs.cqu.edu.cn/info/1140/1746.htm)). His research interests include database security, information retrieval and blockchain.
+GUO Shangwei is a postdoctoral research fellow at Cyber Security Lab, School of Computer Science and Engineering, NTU. His supervisor is Dr. [Yang LIU](http://www.ntu.edu.sg/home/yangliu/). Before joining NTU, he worked at the Database Lab, HongKong Baptist University as a postdoctoral research fellow (supervised by [Prof. Jianliang XU](http://www.comp.hkbu.edu.hk/~xujl/)). He obtained his PhD degree from the School of Computer Science, Chongqing University (supervised by [Prof. Tao XIANG](http://www.cs.cqu.edu.cn/info/1140/1746.htm)). His research interests include database security, information retrieval and blockchain.
