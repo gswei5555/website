@@ -1,5 +1,5 @@
 +++
-title = "Towards Efficient Privacy-Preserving Face Recognition on Cloud"
+title = "Towards Efficient Privacy-Preserving Face Recognition in the Cloud"
 date = "2019-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
