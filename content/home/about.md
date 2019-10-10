@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "Chognqing University"
+  institution = "Chongqing University"
   year = 2017
 
 [[education.courses]]
