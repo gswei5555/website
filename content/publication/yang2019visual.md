@@ -1,5 +1,5 @@
 +++
-title = "BVisual Security Evaluation of Perceptually Encrypted Images Based on Image Importance"
+title = "Visual Security Evaluation of Perceptually Encrypted Images Based on Image Importance"
 date = "2019-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
